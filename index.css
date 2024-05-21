@@ -1,0 +1,14 @@
+/* tailwind.css */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .cirkul {
+    /* border-width: 8px;
+    border-style: solid;
+    border-color: black; */
+    border-radius: 00px;
+  }
+}
